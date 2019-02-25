@@ -16,8 +16,8 @@
 ## 支持pod导入：
 
 ```cocoaPods
-pod 'FWPopupViewOC'
-注意：如出现 [!] Unable to find a specification for 'FWPopupViewOC' 错误，可执行 pod repo update 命令。
+pod 'HZPhotoBrowser'
+注意：如出现 [!] Unable to find a specification for 'HZPhotoBrowser' 错误，可执行 pod repo update 命令。
 ```
 
 
