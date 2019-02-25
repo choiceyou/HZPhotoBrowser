@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "photoBrowser/photoBrowser/photoBrowser/*.{h,m}"
+  spec.source_files  = "HZPhotoBrowser/photoBrowser/photoBrowser/*.{h,m}"
 
   # spec.exclude_files = "Classes/Exclude"
   # spec.public_header_files = "Classes/**/*.h"
@@ -106,7 +106,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.resource  = "icon.png"
-  spec.resources = "photoBrowser/photoBrowser/photoBrowser/HZPhotoBrowser.bundle"
+  spec.resources = "HZPhotoBrowser/photoBrowser/photoBrowser/HZPhotoBrowser.bundle"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
